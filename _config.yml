@@ -7,7 +7,7 @@ title: CuiTalk
 subtitle: '记录成长与美好'
 description: ''
 keywords:
-author: 崔福罡
+author: CuiTalk
 language:
   - zh-CN
   - en
@@ -31,6 +31,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
+wiki_dir: wiki
 skip_render:
 
 # Writing
