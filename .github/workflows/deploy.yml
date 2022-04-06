@@ -1,4 +1,4 @@
-name: cayzlh.com
+name: Build & Deploy
 
 on:
   push:
