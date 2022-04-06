@@ -6,7 +6,7 @@ on:
       - master
   repository_dispatch:
     types: Hexo
-
+  workflow_dispatch:
 jobs:
   build:
     name: Deploy fugangcui.github.io
