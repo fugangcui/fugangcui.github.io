@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: .github/workflows/deploy.yml
   checksum: fd04e85bbee02e23661c5b4c35fadaf6b4f6d4fc6f51cf2024e52969826f9f7f
-version: ""
+- filename: package-lock.json
+  checksum: 8af98644dc91b7685db04ed3a31158864728e54ac9b9e1ba5d05f621a3c8eecf
+version: ""  
